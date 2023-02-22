@@ -10,4 +10,3 @@
 
 
 
- html css3 javascript vscode bash npm git 
