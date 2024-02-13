@@ -39,10 +39,9 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 ## How to Reach Me
 
- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahdstitu/)
 
-
-- Email: [Email Address](fahdstitou263@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahdstitou263@gmail.com)
 
 
 
