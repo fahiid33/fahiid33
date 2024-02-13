@@ -13,6 +13,18 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 
 
+
+
+    🔭 I’m currently looking for an internship .
+
+    🌱 I’m currently specializing at web development
+
+    📫 How to reach me fahdstitou263@gmail.com
+
+    🔍 interested in C/C++/Typescript/Nestjs/Reactjs/Javascript.
+
+
+
 # fstitou
 
 
