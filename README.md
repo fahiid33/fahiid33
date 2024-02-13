@@ -22,8 +22,6 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
   🌱 I’m currently specializing at web development
 
-  📫 How to reach me fahdstitou263@gmail.com
-
   🔍 interested in C/C++/Typescript/Nestjs/Reactjs/Javascript.
 
 
@@ -33,6 +31,13 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 [![fstitou's 42 stats](https://badge.mediaplus.ma/binary/fstitou?1337Badge=off)](https://github.com/oakoudad/badge42)
 
+
+
+
+## How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fahdstitu/)
+- Email: [Your Email Address](fahdstitou263@gmail.com)
 
 
 
