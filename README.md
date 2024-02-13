@@ -34,14 +34,13 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 [![fstitou's 42 stats](https://badge.mediaplus.ma/binary/fstitou?1337Badge=off)](https://github.com/oakoudad/badge42)
 
-<div align="center">
-  <hr width="50%" />
-</div>
 
 
 ## How to Reach Me
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahdstitu/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahdstitou263@gmail.com)
+  
+<div style="text-align: center;">
+    <p><a href="https://www.linkedin.com/in/fahdstitu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+</div>
 
 
 
