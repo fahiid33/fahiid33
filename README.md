@@ -34,7 +34,9 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 [![fstitou's 42 stats](https://badge.mediaplus.ma/binary/fstitou?1337Badge=off)](https://github.com/oakoudad/badge42)
 
-
+<div align="center">
+  <hr width="50%" />
+</div>
 
 
 ## How to Reach Me
