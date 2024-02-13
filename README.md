@@ -5,7 +5,7 @@
 
 
 
-
+---
 
 
 
@@ -15,12 +15,12 @@
 Experienced in C, C++, React.js, NestJs, and TypeScript development, I specialize in delivering robust web applications that are meticulously aligned with both technical requirements and business objectives. Passionate about software development, I continuously seek opportunities to expand my skills and stay abreast of emerging technologies. With strong interpersonal abilities, I thrive in cross-functional collaboration environments, contributing to the success of diverse teams. Committed to delivering timely and cost-effective software solutions, I am dedicated to exceeding expectations at every opportunity.
 
 
-
+---
 
 
   🔭 I’m currently looking for an internship .
 
-  🌱 I’m currently specializing at web development
+  🌱 I’m currently specializing in web development
 
   🔍 interested in C/C++/Typescript/Nestjs/Reactjs/Javascript.
 
@@ -36,8 +36,8 @@ Experienced in C, C++, React.js, NestJs, and TypeScript development, I specializ
 
 ## How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fahdstitu/)
-- Email: [Your Email Address](fahdstitou263@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fahdstitu/)
+- Email: [Email Address](fahdstitou263@gmail.com)
 
 
 
